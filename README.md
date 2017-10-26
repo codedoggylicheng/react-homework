@@ -20,4 +20,3 @@
 - 项目结构参考[Feature component](https://git.realestate.com.au/cobra-psw/property-listings-web/wiki/How-to-build-a-new-feature-component)
 - 采用ES6标准编写
 - 依赖管理
-- webpack打包
