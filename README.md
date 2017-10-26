@@ -3,6 +3,10 @@
 ### Mockup
 用react开发一个Contact Book应用. 应用采用2栏式布局，右侧为导航菜单左侧为菜单项对应的PageView. 第一个菜单项指向登陆页面, 第二个菜单项指向通讯录。
 
+![image](https://github.com/codedoggylicheng/react-homework/blob/master/mockup/1.png)
+![image](https://github.com/codedoggylicheng/react-homework/blob/master/mockup/2.png)
+![image](https://github.com/codedoggylicheng/react-homework/blob/master/mockup/3.png)
+
 ### 要求
 - 一个纯前段的SPA
 - 可以利用浏览器的前进后退按钮进行历史导航
