@@ -27,3 +27,4 @@
 
 ## Notes
 - 可能用的上的js库，html-webpack-plugin，处理template
+- dev server, webpack-dev-server
