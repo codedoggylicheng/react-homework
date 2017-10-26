@@ -22,3 +22,8 @@
 - 依赖管理
 - Webpack打包
 - Karma测试管理
+
+
+
+## Notes
+- 可能用的上的js库，html-webpack-plugin，处理template
