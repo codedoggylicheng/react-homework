@@ -16,7 +16,9 @@
 - 联系人列表需要可以根据姓名或电话进行搜索
 - 联系人列表采用滚动式懒加载/分页设计，默认第一页最多显示5条记录，每当滚动到底部式再加载下一页
 - 尽量考虑组件的重用
-- 有针对于react component的测试
+- 有针对于react component的测试(选择一个合适的框架)
 - 项目结构参考[Feature component](https://git.realestate.com.au/cobra-psw/property-listings-web/wiki/How-to-build-a-new-feature-component)
 - 采用ES6标准编写
 - 依赖管理
+- Webpack打包
+- Karma测试管理
